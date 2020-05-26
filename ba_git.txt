@@ -1,0 +1,10 @@
+1. git init -- Initialize the Empty git repositary
+	2. git status
+	3. git add <FileName>
+	4. git status
+	5. git config --global user.email 'YourEmailID'
+	6. git config --global user.name 'YourName'
+	7. git config user.email
+	8. git config user.name
+	9. git commit -m "First Commit"
+	10. git log
