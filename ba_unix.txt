@@ -23,3 +23,4 @@
 		nano  :
 		rm -- Remove
 		rmdir -- Remove Directory
+This is the basics of unix
